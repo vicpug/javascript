@@ -1,0 +1,12 @@
+{
+  "name": "primer-ejercicio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludar": "node hola_mundo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
